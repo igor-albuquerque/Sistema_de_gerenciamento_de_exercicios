@@ -21,4 +21,4 @@ Criação de um sistema básico de gerenciamento de exercícios com as seguintes
 ## Contribuidores
 - Leticia Queiroz (https://github.com/LeticiaQueiroz57)
 - João Basílio (https://github.com/joaobasilio77)
-- Igor Albuquerque
+- Igor Albuquerque (https://github.com/igor-albuquerque)
